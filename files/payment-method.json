@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "logTime": "2019-07-25T11:21:47.847",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 1,
+    "arName": "كاش",
+    "enName": "Cash"
+  },
+  {
+    "id": 2,
+    "logTime": "2019-07-25T11:21:47.847",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 2,
+    "arName": "بطاقة صراف",
+    "enName": "ATM Card"
+  },
+  {
+    "id": 3,
+    "logTime": "2019-07-25T11:21:47.847",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 3,
+    "arName": "بطاقة إئتمانية",
+    "enName": "Credit Card"
+  },
+  {
+    "id": 5,
+    "logTime": "2020-01-13T03:48:47.847",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 5,
+    "arName": "سداد",
+    "enName": "SDAD"
+  },
+  {
+    "id": 6,
+    "logTime": "2020-01-13T03:48:47.847",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 6,
+    "arName": "شيك",
+    "enName": "Check"
+  },
+  {
+    "id": 7,
+    "logTime": "2020-01-13T03:48:47.847",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 7,
+    "arName": "تحويل بنكي",
+    "enName": "Bank Transfer"
+  },
+  {
+    "id": 8,
+    "logTime": "2022-04-20T05:23:13.2233333",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 8,
+    "arName": "باي بال",
+    "enName": "PayPal"
+  },
+  {
+    "id": 9,
+    "logTime": "2022-04-20T05:23:13.2233333",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 9,
+    "arName": "إس تي سي باي",
+    "enName": "STCPay"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  { "id": 1, "code": 1, "arName": "ساري", "enName": "Valid" },
+  { "id": 2, "code": 2, "arName": "مغلق", "enName": "Closed" },
+  { "id": 3, "code": 3, "arName": "مطالبة", "enName": "Claim" },
+  { "id": 4, "code": 4, "arName": "ملغى", "enName": "Canceled" },
+  { "id": 5, "code": 5, "arName": "معلق", "enName": "Pending" },
+  { "id": 6, "code": 6, "arName": "محفوظ", "enName": "Saved" },
+  {
+    "id": 7,
+    "code": 7,
+    "arName": "معلق لطلب تقرير تقدير",
+    "enName": "Pending Under Taqdeer"
+  }
+]

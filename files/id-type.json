@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "logTime": "2019-07-25T11:21:47.823",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 1,
+    "arName": "هوية وطنية",
+    "enName": "National ID"
+  },
+  {
+    "id": 2,
+    "logTime": "2019-07-25T11:21:47.823",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 2,
+    "arName": "هوية مقيم",
+    "enName": "Resident ID"
+  },
+  {
+    "id": 3,
+    "logTime": "2019-07-25T11:21:47.823",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 3,
+    "arName": "زائر",
+    "enName": "Visitor"
+  },
+  {
+    "id": 4,
+    "logTime": "2019-07-25T11:21:47.823",
+    "createdBy": null,
+    "modifiedAt": null,
+    "modifiedBy": null,
+    "recordActivity": 0,
+    "code": 4,
+    "arName": "مواطنو دول مجلس التعاون الخليجي",
+    "enName": "Citizens of the Gulf Cooperation Council"
+  }
+]
